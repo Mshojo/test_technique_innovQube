@@ -116,6 +116,3 @@ Solutions :
 Puis relancez :
      php artisan migrate:fresh --seed
 
-## 📬 Contact
-
-Pour toute question ou retour : votre.email@exemple.com
