@@ -14,7 +14,7 @@ Projet Laravel réalisé dans le cadre d’un test technique. Il s'agit d'une ap
 ## 🚀 Installation
 
 1. Cloner le projet :
-   git clone https://github.com/ton-utilisateur/laravel-test.git
+   git clone https://github.com/Mshojo/laravel-test.git
    cd laravel-test
 
 2. Installer les dépendances :
